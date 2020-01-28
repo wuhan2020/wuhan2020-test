@@ -45,3 +45,7 @@ Rel(webFront, webAPI, "渲染页面")
 
 custom_mark1
 </details>
+
+
+
+![arch](http://api.hypertrons.io/umlrenderer/github/wuhan2020/data-sync?path=a.uml)
